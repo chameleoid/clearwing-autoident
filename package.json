@@ -1,0 +1,34 @@
+{
+	"name": "clearwing-autoident",
+	"description": "Autoident plugin for Clearwing",
+	"version": "0.0.1",
+	"homepage": "https://github.com/rummik/clearwing-autoident",
+	"author": {
+		"name": "rummik",
+		"email": "r@9k1.us"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/rummik/clearwing-autoident.git"
+	},
+	"bugs": {
+		"url": "https://github.com/rummik/clearwing-autoident/issues"
+	},
+	"licenses": [
+		{
+			"type": "MPL",
+			"url": "https://github.com/rummik/clearwing-autoident/blob/master/LICENSE-MPL"
+		}
+	],
+	"main": "lib/autoident",
+	"engines": {
+		"node": ">=0.10"
+	},
+	"keywords": [
+		"irc",
+		"client",
+		"clearwing",
+		"autoident",
+		"clearwing-plugin"
+	]
+}
