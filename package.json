@@ -1,7 +1,7 @@
 {
 	"name": "clearwing-autoident",
 	"description": "Autoident plugin for Clearwing",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"homepage": "https://github.com/rummik/clearwing-autoident",
 	"author": {
 		"name": "rummik",
@@ -17,7 +17,7 @@
 	"licenses": [
 		{
 			"type": "MPL",
-			"url": "https://github.com/rummik/clearwing-autoident/blob/master/LICENSE-MPL"
+			"url": "https://github.com/rummik/clearwing-autoident/blob/master/LICENSE.md"
 		}
 	],
 	"main": "lib/autoident",
